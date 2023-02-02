@@ -1,7 +1,7 @@
 # windows-iso-hu-keyboard-for-mac
 Hungarian Windows keyboard layout for MacOs
 
-#Installation instructions
+# Installation instructions
 - Download the .keylayout file
 - copy it into the following folder - ~/Library/Keyboard\ Layouts/
 - optionally you can copy it into the /Library/Keyboard\ Layouts/ as well to provide access for another users on the same machine as well
